@@ -7,7 +7,7 @@ cask "leve" do
   desc "100% local, offline batch image resizer and video compressor"
   homepage "https://github.com/pedroaccrivera/leve"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
   depends_on arch: :arm64
 
   app "leve.app"
