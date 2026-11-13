@@ -1,6 +1,6 @@
 cask "leve" do
-  version "1.6.0"
-  sha256 "2300d228afdf3f76c5cb3575c011bd3a0925c566bb5daa725c2ac4743660e574"
+  version "1.6.1"
+  sha256 "a570aceaa73a0497a49a0aff734b06598ffc958f07ae204f0e6ef12e315baf09"
 
   url "https://github.com/pedroaccrivera/leve/releases/download/v#{version}/leve-#{version}-mac-arm64.zip"
   name "leve"
